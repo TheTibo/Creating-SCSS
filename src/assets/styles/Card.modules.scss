@@ -1,0 +1,47 @@
+*{
+    font-family:"Convincing Pirate";
+    
+    
+}
+
+body {
+    background-image: url('../images/onepiecemap.jpg');
+    object-fit:cover ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+img {
+    width: 80%;
+    height: 20%;
+}
+
+div {
+    width: 600px;
+    height: 700px;
+    border: solid black;
+    border-radius: 100px;
+    background-color: bisque;
+    h1 {
+        color:blue;
+        
+    }
+}
+ ul {
+    width: 100%;
+    display: flex;
+    gap: 15px;
+    list-style: none;
+    button {
+        border-radius: 50px;
+        width: 100px;
+        height: 50px;
+        color: white;
+        background-color: rgba(0, 0, 0, 0.336);
+        
+    }
+ }
+
+
+
+
